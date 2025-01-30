@@ -13,3 +13,4 @@ Komponenty (hardware):
  
 Pred prvým nahratím do ESP32 treba vyplniť WIFI SSID a heslo + OpenWeatherMap API kľúč
 
+https://github.com/TomasKrs/Projekt/blob/main/InstantMeteo/InstantMeteo_fotky/InstantMeteo_zapojenie.jpg
