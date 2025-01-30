@@ -11,5 +11,5 @@ Komponenty (hardware):
 3. DHT11 (teplota a vlhkosť) – prípadne DHT22
 4. Prepojovacie káble
  
-Pred prvým nahratím do ESP32 treba vyplniť WIFI SSID a heslo + OpenWeatherMap API kľúČ
+Pred prvým nahratím do ESP32 treba vyplniť WIFI SSID a heslo + OpenWeatherMap API kľúč
 
