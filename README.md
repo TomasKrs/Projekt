@@ -1,5 +1,5 @@
 # Projekt - InstantMETEO
-Projekt InstantMETEO je navrhnutý na rýchle zobrazovanie predpovede počasia na nasledujúce 3 až 6 hodín. Umožňuje človeku, ktorý sa ponáhľa z domu / kancelárie, okamžite vidieť dôležité informácie o počasi bez potreby vytiahnuť mobil alebo hľadať informácie online. Displej zobrazí teplotu, tlak, vlhkosť, vietor a popis počasia. Zároveň DHT sensor sa postará o zmeranie teploty v priestore, kde sa človek nachádza.
+Projekt InstantMETEO je navrhnutý na rýchle zobrazovanie predpovede počasia na minimálne 2 hodiny. Umožňuje človeku, ktorý sa ponáhľa z domu / kancelárie, okamžite vidieť dôležité informácie o počasi bez potreby vytiahnuť mobil alebo hľadať informácie online. Displej zobrazí teplotu, tlak, vlhkosť, vietor a popis počasia. Zároveň DHT sensor sa postará o zmeranie teploty v priestore, kde sa človek nachádza.
 Použitie v praxi
 •	Rýchla kontrola počasia pri odchode z domu
 •	Možnosť lepšieho rozhodovania o vhodnom oblečení a vybavení
